@@ -1,2 +1,2 @@
 # SimpleWebpage
-HTML CSS Javascript
+HTML basic introduction
